@@ -1302,7 +1302,7 @@ MeshRenderer:
   m_GameObject: {fileID: 462774153}
   m_Enabled: 1
   m_CastShadows: 1
-  m_ReceiveShadows: 1
+  m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
@@ -3790,10 +3790,8 @@ MonoBehaviour:
 
     Space to jump
 
-    C to crouch
-
-    Left
-    click to shoot laser (it has limited range)
+    Left click
+    to shoot laser (it has limited range)
 
 
 
